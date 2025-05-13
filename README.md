@@ -4,7 +4,13 @@
         <title>BitMarket</title>
         <link rel="stylesheet" href="style.css">
     </head>
-      <style>
+
+    <body>
+  
+        
+        <header>
+
+              <style>
           body {
     font-family: sans-serif;
     background-color: black;
@@ -104,10 +110,6 @@ footer p {
     background-color: #AC13A6;
 }
 </style>
-    <body>
-  
-        
-        <header>
             <img src="/uploads/2021/02/logo_0_1613588860.svg">
             <a class="button" href="">Discounts</a>
         </header>
